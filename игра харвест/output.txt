@@ -1,10 +1,5 @@
-Warning: Cannot plant Entities.Carrot on Grounds.Grassland.
+Warning: Tried to use Items.Water but didn't have enough of it.
 In: 
-plant(Entities.Carrot)
-     ^^               
---------------------------------------------------------------------
-Warning: Cannot plant Entities.Carrot on Grounds.Grassland.
-In: 
-plant(Entities.Carrot)
-     ^^               
+use_item(Items.Water) 
+        ^^            
 --------------------------------------------------------------------
