@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4319d4afe7d822cc","x":-260,"y":-200,"width":250,"height":60,"type":"text","text":"ОЗУ"},
+		{"id":"c21a82d642bf4b07","x":-260,"y":-140,"width":250,"height":60,"type":"text","text":"ПЗУ"},
+		{"id":"252754dea45b243e","x":-260,"y":-80,"width":250,"height":60,"type":"text","text":"Блок питания"},
+		{"id":"83a83e02e922e056","x":-260,"y":-20,"width":250,"height":60,"type":"text","text":"Периферия (PCI)"},
+		{"id":"35bc336c851be59b","x":-260,"y":-260,"width":250,"height":60,"type":"text","text":"Материнская плата"},
+		{"id":"9db4de69a519e157","x":-260,"y":-320,"width":250,"height":60,"type":"text","text":"Процессор"},
+		{"id":"907a1f1198dd8649","x":-260,"y":40,"width":250,"height":60,"type":"text","text":"Сис. охлаждения"},
+		{"id":"6644b667d5faaa88","x":-260,"y":100,"width":250,"height":60,"type":"text","text":"Корпус"}
+	],
+	"edges":[]
+}
