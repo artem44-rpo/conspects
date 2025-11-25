@@ -12,4 +12,4 @@ class CateLinkedList:
     def add(self, CatNode):
         pass
 ```
-
+ 
