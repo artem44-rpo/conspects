@@ -1,3 +1,4 @@
+# Первая задача
 ```python
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
@@ -9,4 +10,19 @@ class Solution:
             if arr[i] - arr[i-1] != diff:
                 return False
         return True
+```
+
+
+# Вторая задача
+```python
+import math
+
+class Solution:
+    def pivotInteger(self, n: int) -> int:
+        S = n * (n + 1) // 2
+        sqrt_S = math.isqrt(S)
+        if sqrt_S * sqrt_S == S:
+            return sqrt_S
+        else:
+            return -1
 ```
