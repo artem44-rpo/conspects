@@ -1,4 +1,4 @@
-#int #float #True #False
+#int #float #True #False #python
 ### Переменные и типы данных
 
 #### Переменные
