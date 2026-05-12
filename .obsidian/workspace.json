@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы ит/Информация.md",
+                "file": "Введение в Python/Исключения в Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Информация"
+              "title": "Исключения в Python"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "9b706a91e1622c78",
   "lastOpenFiles": [
+    "Введение в Python/Основы условий.md",
+    "Введение в Python/Исключения в Python.md",
+    "Основы ит/Информация.md",
     "Конфигурация windows 10/WinGet.md",
     "Основы ит/Информационная право. Информационная безопасность.md",
     "Images/Pasted image 20250922094027.png",
